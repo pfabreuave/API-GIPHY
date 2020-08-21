@@ -1,0 +1,23 @@
+.gifs {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.gif img {
+    max-width: 250px;
+    
+}
+.pedro {
+    width: 250px;
+    height: 250px;
+    background: red;
+
+    
+}
+.pedro img {
+     width: 240px;
+     height: 240px;
+    
+}
